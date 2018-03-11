@@ -1,6 +1,6 @@
 
-<p align="center">![Imagem](https://i.imgur.com/8a7dLTr.png)</p>
-<p align="center">A simple User Interface for nipe</p>
+<p align="center"><img src="https://i.imgur.com/8a7dLTr.png" alt="nipe-ui"> </p>
+<p align="center">A <b>simple user interface</b> for nipe.</p>
 
 [![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/GouveaHeitor/nipe/blob/master/LICENSE.md)
 [![Version-Program](https://img.shields.io/badge/version-0.1-blue.svg)](https://github.com/natandiasm/nipe-ui/releases)
