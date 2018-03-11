@@ -6,10 +6,12 @@
 
 
 #### How to Install
+```
 
-- To work is very simple, just copy the bin file to the root of the nipe folder.
+To work is very simple, just copy the bin file to the root of the nipe folder.
 
+```
 
 #### License
 
-- This work is licensed under [**MIT License**](https://github.com/natandiasm/nipe-ui/blob/master/LICENSE.md)
+ This work is licensed under [**MIT License**](https://github.com/natandiasm/nipe-ui/blob/master/LICENSE.md)
